@@ -1,1 +1,1 @@
-{eenadu}(https://www.eenadu.net)
+[eenadu](https://www.eenadu.net)
